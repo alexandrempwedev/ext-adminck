@@ -5,7 +5,7 @@
 ## Installing
 
 ```shell
-composer require xn/ext-adminck
+composer require xn/admin-ck
 ```
 
 ```shell
