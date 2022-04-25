@@ -5,11 +5,11 @@
 ## Installing
 
 ```shell
-composer require xn/admin-ck
+composer require  alexandrempwedev/ext-adminck 
 ```
 
 ```shell
-php artisan vendor:publish --tag=admin-ck
+php artisan vendor:publish --tag=ext-adminck 
 ```
 
 ## Usage
