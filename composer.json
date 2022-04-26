@@ -1,11 +1,11 @@
 {
-    "name": "xn/admin-ck",
+    "name": " alexandrempwedev/ext-adminck",
     "description": "Easy way to use ckfinder and ckeditor in laravel-admin",
     "license": "MIT",
     "authors": [
         {
-            "name": "liyuu",
-            "email": "liyuu@gmail.com"
+            "name": "alexandrempwedev",
+            "email": "alexandre@wedev.pt"
         }
     ],
     "require": {
